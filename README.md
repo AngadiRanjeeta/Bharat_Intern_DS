@@ -1,4 +1,6 @@
 In this repository i completed the tasks that i got in the Data Science internship from Bharat Intern.
+
+
 TASK : 1
 Stock Prediction :
 Take stock price of any company you want and predicts its price by using LSTM.
